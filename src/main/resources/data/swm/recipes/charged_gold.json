@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xrx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:redstone"
+    },
+    "r":
+    {
+      "item": "swm:crushed_gold"
+    }
+  },
+  "result":
+  {
+    "item": "swm:charged_gold",
+    "count": 1
+  }
+}

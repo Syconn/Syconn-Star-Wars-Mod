@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " r ",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "minecraft:cobblestone"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "swm:hammer",
+    "count": 1
+  }
+}

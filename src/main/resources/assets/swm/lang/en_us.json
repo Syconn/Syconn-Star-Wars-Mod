@@ -1,0 +1,30 @@
+{
+  "item.swm.blaster": "Blaster",
+  "item.swm.lightsaber": "Lightsaber",
+  "item.lightsaber.red": "Red Lightsaber",
+  "item.lightsaber.blue": "Blue Lightsaber",
+  "item.lightsaber.green": "Green Lightsaber",
+  "item.lightsaber.purple": "Mace Windu's Lightsaber",
+
+  "item.swm.hammer": "Stone Hammer",
+  "item.swm.blaster_rifle": "Blaster Rifle",
+  "item.swm.kyber_crystal_item": "Kyber Crystal",
+  "item.swm.steel_ingot": "Steel Ingot",
+  "item.swm.crushed_gold": "Gold Powder",
+  "item.swm.charged_gold": "Charged Gold Powder",
+
+  "block.swm.lightsaber_crafter": "Hilt Table",
+  "block.swm.kyber_crystal": "Unrefined Kyber Crystal",
+  "block.swm.steel_block": "Steel Block",
+
+  "key.swm.activate": "Switch Lightsaber State",
+  "key.swm.starwars": "Star Wars",
+
+  "container.lightsaber.crafter": "Lightsaber Crafter",
+
+  "itemGroup.starwarstab": "Star Wars",
+
+  "advancements.swm.root.title": "Star Wars",
+
+  "advancements.swm.root.description": "Travel To a world Far Away. Meet your favorite Star Wars Characters and adventure in custom dimensions and biome."
+}

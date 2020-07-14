@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xrx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "swm:charged_gold"
+    },
+    "r":
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "swm:steel_ingot",
+    "count": 1
+  }
+}

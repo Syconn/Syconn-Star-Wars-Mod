@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "swm:items/lightsaber",
+    "layer1": "swm:items/handle"
+  },
+    "overrides": [
+      {
+        "predicate": {
+          "activated": 1.0
+        },
+        "model": "swm:item/handle"
+      }
+    ]
+}

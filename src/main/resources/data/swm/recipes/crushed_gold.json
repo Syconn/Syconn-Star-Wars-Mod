@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "swm:hammer"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result":
+  {
+    "item": "swm:crushed_gold",
+    "count": 2
+  }
+}

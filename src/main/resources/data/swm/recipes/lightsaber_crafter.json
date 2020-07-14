@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xhx",
+    "xxx",
+    "x x"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "swm:steel_ingot"
+    },
+    "h":
+    {
+      "item": "swm:hammer"
+    }
+  },
+  "result":
+  {
+    "item": "swm:lightsaber_crafter",
+    "count": 1
+  }
+}
