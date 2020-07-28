@@ -6,6 +6,8 @@ import mod.syconn.starwars.init.ModItems;
 import mod.syconn.starwars.item.LightsaberItem;
 import mod.syconn.starwars.util.handlers.ColorHandlers;
 import net.minecraft.block.*;
+import net.minecraft.client.settings.KeyBinding;
+import net.minecraft.client.util.InputMappings;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.item.ItemEntity;
 import net.minecraft.entity.player.PlayerEntity;

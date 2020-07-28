@@ -35,7 +35,7 @@ public class KyberCrystalBlock extends Block {
 
     public KyberCrystalBlock(Properties properties) {
         super(properties);
-        this.setDefaultState(this.stateContainer.getBaseState().with(COLOR, DyeColor.WHITE));
+        this.setDefaultState(this.stateContainer.getBaseState().with(COLOR, ColorHandlers.CrystalColorUtil()));
     }
 
     @Override

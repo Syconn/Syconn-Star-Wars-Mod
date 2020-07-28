@@ -1,6 +1,7 @@
 package mod.syconn.starwars.init;
 
 import mod.syconn.starwars.containers.LightsaberCrafterContainer;
+import mod.syconn.starwars.containers.SidePickerContainer;
 import mod.syconn.starwars.util.Reference;
 import net.minecraft.inventory.container.Container;
 import net.minecraft.inventory.container.ContainerType;
@@ -17,7 +18,8 @@ public class ModContainers
 {
     private static final List<ContainerType<?>> CONTAINER_TYPES = new ArrayList<>();
 
-    public static final ContainerType<LightsaberCrafterContainer> LIGHTSABER_CRAFTER = register(Reference.MOD_ID + ":lightsaber_crafter", LightsaberCrafterContainer::new);
+    public static final ContainerType<LightsaberCrafterContainer> LIGHTSABER_CRAFTER = register(Reference.MOD_ID + "lightsaber_crafter", LightsaberCrafterContainer::new);
+    public static final ContainerType<SidePickerContainer> SIDE_PICKER = register(Reference.MOD_ID + "side_picker", SidePickerContainer::new);
 
     private static <T extends Container> ContainerType<T> register(String key, ContainerType.IFactory<T> factory)
     {

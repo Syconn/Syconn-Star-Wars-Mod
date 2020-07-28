@@ -18,7 +18,7 @@ version="0.1" #mandatory
  # A display name for the mod
 displayName="Syconn's Star Wars Mod" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="swm:textures/gui/backround/StarWarsLogo.png" #optional
+logoFile="swm:textures/gui/background/StarWarsLogo.png" #optional
 # A text field displayed in the mod UI
 authors="Syconn" #optional
 # The description text for the mod (multi line!) (#mandatory)

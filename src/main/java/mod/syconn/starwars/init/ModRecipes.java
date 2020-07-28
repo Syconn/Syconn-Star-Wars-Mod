@@ -1,10 +1,8 @@
 package mod.syconn.starwars.init;
 
-import mod.syconn.starwars.item.KyberCrystalItem;
-import mod.syconn.starwars.util.Helpers.RecipeHelper;
+import mod.syconn.starwars.util.helpers.RecipeHelper;
 import net.minecraft.item.Item;
 import net.minecraft.item.Items;
-import net.minecraft.util.NonNullList;
 
 import javax.annotation.Nullable;
 import java.util.ArrayList;

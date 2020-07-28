@@ -18,6 +18,10 @@
   "block.swm.steel_block": "Steel Block",
 
   "key.swm.activate": "Switch Lightsaber State",
+  "key.ability.one": "Left Force Ability",
+  "key.ability.two": "Middle Force Ability",
+  "key.ability.three": "Right Force Ability",
+  "key.refresh.stamina": "Refresh Stamina Counter",
   "key.swm.starwars": "Star Wars",
 
   "container.lightsaber.crafter": "Lightsaber Crafter",

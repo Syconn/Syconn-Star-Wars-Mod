@@ -177,5 +177,13 @@
 			"translation": [0, 0, -2.5],
 			"scale": [0.5, 0.56, 0.51]
 		}
-	}
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"activated": 1.0
+			},
+			"model": "swm:item/handle"
+		}
+	]
 }
